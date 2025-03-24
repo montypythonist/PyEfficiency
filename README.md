@@ -1,5 +1,5 @@
 # PyEfficiency
-omg silly functions like binary searches and algorithmic functions!! :D
+omg silly functions like binary searches and actually functional rounding!! :D
 
 IMPORTANT LINKS:
 
